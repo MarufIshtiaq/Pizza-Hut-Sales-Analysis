@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PizzaHut">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-8TF299A:DESKTOP-8TF299A\HP">
+          <Created>2025-04-28T09:02:30.0326822+06:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-8TF299A</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="advance.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8TF299A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8TF299A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>advance.sql</FullPath>
+        </FileNode>
+        <FileNode Name="basic.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8TF299A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8TF299A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>basic.sql</FullPath>
+        </FileNode>
+        <FileNode Name="database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8TF299A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8TF299A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="intermediate.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8TF299A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8TF299A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>intermediate.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
